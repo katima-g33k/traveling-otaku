@@ -1,26 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component } from 'react';
+import { Col, Container, Image, Row } from 'react-bootstrap';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>Live edit</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <Container className="App">
+        <Row noGutters>
+          <Col>
+            <Image fluid src="./fuji_san.jpg" alt="Mount Fuji" />
+          </Col>
+        </Row>
+      </Container>
+    );
+  }
 }
-
-export default App;
