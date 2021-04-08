@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/traveling-otaku/static/js/main.a6fa0786.chunk.js",
+    "main.js.map": "/traveling-otaku/static/js/main.a6fa0786.chunk.js.map",
+    "runtime-main.js": "/traveling-otaku/static/js/runtime-main.dad892a5.js",
+    "runtime-main.js.map": "/traveling-otaku/static/js/runtime-main.dad892a5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/traveling-otaku/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c30b1813.chunk.js": "/traveling-otaku/static/js/2.c30b1813.chunk.js",
+    "static/js/2.c30b1813.chunk.js.map": "/traveling-otaku/static/js/2.c30b1813.chunk.js.map",
+    "index.html": "/traveling-otaku/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/traveling-otaku/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.c30b1813.chunk.js.LICENSE.txt": "/traveling-otaku/static/js/2.c30b1813.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad892a5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c30b1813.chunk.js",
+    "static/js/main.a6fa0786.chunk.js"
+  ]
+}
