@@ -5,6 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <Container className="App">
+        <Row>Testing github pages</Row>
         <Row noGutters>
           <Col>
             <Image fluid src="./fuji_san.jpg" alt="Mount Fuji" />
